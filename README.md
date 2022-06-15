@@ -23,9 +23,6 @@
 </div>
 
 ###
-<img href="https://github.com/jaaymes/jaaymes/blob/output/snake.svg" alt="Snake animation" />
-
-###
 <div align="center">
   <img height="200" src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"  />
 </div>
